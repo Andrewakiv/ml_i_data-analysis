@@ -1,1 +1,1 @@
-print('Hello')
+print(float('inf'))
